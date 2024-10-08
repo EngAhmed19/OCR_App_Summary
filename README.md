@@ -45,7 +45,7 @@ Llama 3.2 is a highly sophisticated transformer-based language model built on th
 
 
 ## Model Architecture
-![Llama3.2](./images/1728197330035.jfif)
+![Llama3.2](./images/llama3.2.jfif)
 
 The architecture of Llama 3.2 consists of stacked transformer layers, where each layer contains a self-attention mechanism followed by feed-forward networks. These components allow the model to capture long-range dependencies between words and generate coherent, human-like text.
 
