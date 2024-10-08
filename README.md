@@ -33,7 +33,7 @@ This project is designed to process a variety of file types (PDF, image, PowerPo
    ```
 3. Run the application:
    ```bash
-   python app.py
+   python ocr_summaryapp.py
    ```
 4. Access the interface through the provided URL in the terminal. Upload your file, select the task (Summarization/Question Generation), and choose the language options to get started.
 
