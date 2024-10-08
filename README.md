@@ -50,11 +50,12 @@ Llama 3.2 is a highly sophisticated transformer-based language model built on th
 The architecture of Llama 3.2 consists of stacked transformer layers, where each layer contains a self-attention mechanism followed by feed-forward networks. These components allow the model to capture long-range dependencies between words and generate coherent, human-like text.
 
 ### Llama 3.2 1B:
-Vocabulary Size: 128,256
-Hidden Layer Dimension: 8,192
-Attention Heads: 32
-Activation Function: SiLU
-Normalization: Final RMSNorm
-Embedding Dimension: 2,048
-Context Length: 8,192 tokens
-Features: Masked grouped-query attention, RoPE rescaling
+- **Vocabulary Size**: 128,256  
+- **Hidden Layer Dimension**: 8,192  
+- **Attention Heads**: 32  
+- **Activation Function**: SiLU  
+- **Normalization**: Final RMSNorm  
+- **Embedding Dimension**: 2,048  
+- **Context Length**: 8,192 tokens  
+- **Features**: Masked grouped-query attention, RoPE rescaling
+
